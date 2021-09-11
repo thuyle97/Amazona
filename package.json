@@ -1,0 +1,23 @@
+{
+  "name": "amazona",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/thuyle97/Amazona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuyle97/Amazona/issues"
+  },
+  "homepage": "https://github.com/thuyle97/Amazona#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
