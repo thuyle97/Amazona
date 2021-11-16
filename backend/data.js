@@ -16,7 +16,6 @@ const data = {
   ],
   products: [
     {
-      _id: "1",
       name: "Peach Doggy",
       category: "Squish",
       image: "/images/p1.png",
@@ -28,7 +27,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "2",
       name: "Blue Dino",
       category: "Squish",
       image: "/images/p2.png",
@@ -40,7 +38,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "3",
       name: "Purple Octopus",
       category: "Squish",
       image: "/images/p3.png",
@@ -52,7 +49,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "4",
       name: "Avocado",
       category: "Squish",
       image: "/images/p4.png",
@@ -64,7 +60,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "5",
       name: "Baby Shark",
       category: "Squish",
       image: "/images/p5.png",
@@ -76,7 +71,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "6",
       name: "Hello Kitty",
       category: "Squish",
       image: "/images/p6.png",
