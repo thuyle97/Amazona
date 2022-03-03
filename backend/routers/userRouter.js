@@ -8,6 +8,7 @@ import { generateToken } from "../utils.js";
 
 const userRouter = express.Router();
 
+//put the func in expressAsyncHandler to get error message
 userRouter.get(
   "/seed",
   expressAsyncHandler(async (req, res) => {
